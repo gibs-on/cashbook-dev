@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "753286565971",
+    "project_id": "mycashbook-b869a",
+    "storage_bucket": "mycashbook-b869a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753286565971:android:658218803ec62f959376a6",
+        "android_client_info": {
+          "package_name": "com.tenzilabs.tenzibook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753286565971-4cqu83idqmajbkgd6j3vbo3fi9me0j60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY5Y5pJTCZgME7SmghEqfAn1BSZ8taZOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753286565971-4cqu83idqmajbkgd6j3vbo3fi9me0j60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
